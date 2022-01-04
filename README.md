@@ -1,2 +1,2 @@
 # Odin-Projects
-Projects and exercises goes here
+Projects and exercises go here
